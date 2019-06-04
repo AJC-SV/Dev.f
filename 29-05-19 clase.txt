@@ -1,0 +1,20 @@
+section=seccion
+div=diviciones
+
+iniciamos secciones y luego divisones en HTML
+
+pasamos a CSS:
+Flexbox //recurso:https://flexboxfroggy.com/#es
+
+debemos colocar la propiedad de:
+display:flex;
+
+y luego agregar prop de:
+justify-content
+align-items
+flex-direction
+order
+align-self
+flex-wrap
+flex-flow
+align-content

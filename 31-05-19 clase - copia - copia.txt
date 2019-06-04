@@ -1,0 +1,23 @@
+-*-*-*-*-*-* UNIX *-*-*-*-*-
+
+servidores web no interfas grafica, ocupan comandos:
+
+comando GibBash
+
+LS = lista las carpetas
+
+CD "nombre carpeta" = movemos a carpeta
+
+CD "parte de nombre" + TABx2 = autocompleta nombre de carpeta para acceder
+
+PWD = detalla direccion donde nos encontramos
+
+CD .. = regresa 1 carpeta atras
+
+MKDIR "nombre carpeta"= crear carpetas
+
+TOUCH "nombre archivo"= crear archivo
+
+CAT "nombre archivo" = muestra contenido de archivo
+
+CODE. = debemos posicionarnos primero en la carpeta y luego el comando .code para abrir visual estudio code

@@ -1,0 +1,70 @@
+framework= caja de herramientas (general)
+libreria= conjunto de herramientas (especidico)
+protocolo=estandarisado (https)
+algoritmo=Proceso q se lleva a cabo
+servidor=
+cliente=algo q se conecta a servidor (pc, phone...)
+usuario=persona/nosotros/decide que se hara
+---------
+frontend=lo que ve el usuario (app moviles, website)
+backedn=se tiene q programar/no lo ve el usuario/procesos y recursos de el Server
+
+html5 y css3= para desarrollo web
+
+js/javascrip=
+
+base de datos= MySQL,PostgreSQL, MongoDB, Cassandra/Relacional-NoRelacional
+
+android/Swift
+
+------------
+Head= informacion extra al navegador
+
+Nav bar= menu, navegador
+
+Foother= final, 
+
+html se basa en box mode=
+
+tags= < > cajas... todas las etiquetas o tag deben cerrarse
+------------
+h1 al h6
+la web debe tener solos un h1, los demas pueden repetirse
+------------
+CSS - Estilos
+
+Selectores: define lo que se va a modificar
+
+formato:
+
+selector{
+      propiedad:valor;
+}
+
+comentario css: /* y */
+
+selectorres= exiten 3= selector de etiqueta, selector de clase, selector de ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

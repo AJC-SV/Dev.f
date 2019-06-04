@@ -1,0 +1,45 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: #000000;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
+.mainp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.mainu{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.toptext{
+    color: white;
+    font-size: 50px;
+}
+
+.user img{
+    height: 50%;
+    width: 100%;
+}
+
+.user{
+    display: flex;
+    color: #808080;
+    border: solid black 20px;
+    flex-direction: column;
+    font-size: 20px;
+
+    
+}

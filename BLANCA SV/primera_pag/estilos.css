@@ -1,0 +1,27 @@
+/* {
+    background: blueviolet;
+
+
+}
+*/
+
+h1{
+    color: #81f310da;
+    font-size: 150px;
+}
+
+span{
+    color: #f3109cda;
+}
+
+#uno{
+    color: #ffe601;
+}
+
+.img-big{
+    width: 100%
+}
+
+.img-small{
+    width: 50%
+}

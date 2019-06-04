@@ -1,0 +1,117 @@
+*-*-*-*-*-*-*-*-*-
+*-*-*-  GIT *-*-*-
+*-*-*-*-*-*-*-*-*-
+programa control de versiones, es necesario:
+
+regresion : regresar a 
+checkpoint : puntos de control
+sandbox : zona segura de prueba y error de codigo
+branching : diferentes versiones
+sharing : compartir con los demas
+
+GIT = tecnologia ; corre de forma local
+
+GITHUB, GITLAB, BITBUCKET = storage que funcione a en base a GIT
+
+
+comando GIT
+
+- git init : crea repositorio; una carpeta oculta ".git"
+
+- git status : estado del repositorio; utiliza workflow
+      1-working directory: archivos de proyecto que etamos trabajando, color ROJO.
+      2-staging area: area de preparacion de nuestro proyecto, color VERDE
+
+- git add: pasa a estado de preparacion
+
+- git commit -m "" : es un comentario
+
+(
+configura comentarios: se configura git utilizando...
+ git config --global user.email "alvaro08tecnico@hotmail.es"
+ git config --global user.name "AJC"
+)
+
+funcionamiento de GIT:
+
+____________Brach Master (rama maestra)___________
+        /     /
+commit1/     /
+            /
+    commit2/
+
+
+- git log : muestra los diferentes commit los cuales poseen codigos unicos, el autor, la fecha y hora, y el commit que asignamos a ese cambio.
+
+
+- git checkout
+
+- git add * : agregan todos los archivos area de Staging
+- git add . : agregan todos los archivos area de Staging
+
+-git checkout -b :crea una nuevo Brach; el cual puede ser un funcionalidad alternativa
+
+como agrego git a github:
+
+git remote add origin https://github.com/AJC-SV/ejemplo-git-sv.git
+
+Dagorik
+
+- git push origin master : sube cuando esta enlazado repositorio se utiliza este codigo loggeamos.
+
+- git pull origin: baja
+
+- git clone "link de origen proporcionado de GITHUB" : clonamos y bajamos proyecto
+
+branch nombre
+crear archivo nombre
+subir branch
+git git pull reques
+
+GITHUB:
+
+user: AJC-SV
+pass: ikari20020
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+        BASE DE DATOS
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+base datos: datos relacionados entre si
+
+propiedades de una BD:
+-backups
+-seguridad (loggin)
+-normalizacion
+-integridad (datos no se pierde)
+-acceso concurrente (muchos usuarios consultan)
+-redundancia minima (no se repiten datos solo en minimas excepciones)
+-idependencia logica y fisica
+
+
+SGBD - sistema de gestion de BD
+interfaz grafica....
+
+tipos de base datos:
+
+SQL
+y
+No-SQL
+
+Relacionales
+y
+No relacionales
+
+ORM = mapeo objeto-relacional ; intermediario entre base de datos y proyecto
+ODM = mapeo no-relacional
+
+
+
+
+
+
+
+
